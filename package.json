@@ -1,0 +1,10 @@
+{
+  "name": "zero-logger",
+  "version": "0.0.6",
+  "description": "zero module",
+  "zero": {
+    "dependencies": {
+    }
+  },
+  "author": "jiamiu"
+}
